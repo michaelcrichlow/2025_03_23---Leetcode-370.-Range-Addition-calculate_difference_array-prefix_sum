@@ -1,5 +1,5 @@
 # Leetcode 370.  Range Addition
-# This problem introduces you to the concept of a "diffrence array"
+# This problem introduces you to the concept of a "difference array"
 # This allows you to take the sum of subarrays in O(1) time
 
 
